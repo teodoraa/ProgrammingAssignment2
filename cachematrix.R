@@ -1,6 +1,8 @@
 ## Because matrix operations are time-consuming, the following 
 ## functions cache the inverse of a matrix, so that if needed
-## it can be obtained without having to be recomputed.
+## it can be obtained without having to be recomputed.  The 
+## code is adapted from the code provided in the README.md file
+## provided with the assignment instructions.
 
 ## This function creates a list of 4 functions to set and get a 
 ## matrix and to set and get the inverse of the matrix. The 
